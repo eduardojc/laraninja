@@ -1,4 +1,4 @@
-#CRUD Básico em Laravel 5.8 + Angular JS - Estudo	
+#CRUD Básico em Laravel 5.8 + Angular JS - Estudo
 
 Exercicios de estudo realizado através do Livro [Laravel Para Ninjas][1]
 [1]: https://novatec.com.br/livros/laravel-para-ninjas/ "Laravel para ninjas" do autor Ademir C. Gabardo. Realização dos exercicios com a criação de um sistema de cadastro de itens com imagens e consumo de front-end via Angular JS.
