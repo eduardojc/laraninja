@@ -11,13 +11,19 @@ Tecnologias Usadas:
 - CSS
 - MySQL
 
-[![Tela de Produtos](Produtos "Tela de Produtos")](https://i.imgur.com/cIMLDJs.png "Tela de Produtos")
+### Tela dos Produtos
+![Tela de Produtos](https://i.imgur.com/cIMLDJs.png "Tela de Produtos")
 
-[![Detalhes do Produto](Detalhes do Produto "Detalhes do Produto")](https://i.imgur.com/gkcMpL3.png "Detalhes do Produto")
+### Detalhes ao clicar no produto
+![Detalhes do Produto](https://i.imgur.com/gkcMpL3.png "Detalhes do Produto")
 
-[![Alterando um Produto](Alterando um Produto "Alterando um Produto")](https://i.imgur.com/GvOEqXq.png "Alterando um Produto")
+### Alterando o produto
+![Alterando um Produto](https://i.imgur.com/GvOEqXq.png "Alterando um Produto")
 
-[![Criando um Novo Produto](Criando um Novo Produto "Criando um Novo Produto")](https://i.imgur.com/nRRE5Uf.png "Criando um Novo Produto")
+### Criando um novo produto
+![Criando um Novo Produto](https://i.imgur.com/nRRE5Uf.png "Criando um Novo Produto")
+
+
 
 ## Security Vulnerabilities
 
